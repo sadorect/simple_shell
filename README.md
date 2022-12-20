@@ -329,7 +329,7 @@ $
 👤 **TOSIN OMOJOLA**
 
 - GitHub: [@sadorect](https://github.com/sadorect)
-- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/tosin-omojola-b9409b49/])
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tosin-omojola-b9409b49/)
 - Twitter: [@sadoret](https://twitter.com/sadorect)
 
 ***
